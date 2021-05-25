@@ -7,4 +7,4 @@ int main(void)
     printf("Hello, %s\n", get_string("What's your name?\n "));
 }
 
-http://ide.cs50.io/
+// http://ide.cs50.io/
