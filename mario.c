@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 
-// indicate functions
+// indicate functions                                                                           http://ide.cs50.io/
 void bricks_constructure();
 void spaces_distance();
 
